@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "test"
+baseURL = "https:\/\/embed2.test.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758403"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "test.com"
