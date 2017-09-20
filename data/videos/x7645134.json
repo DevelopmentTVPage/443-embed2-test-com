@@ -18,8 +18,6 @@
     "id": "7645134",
     "loginId": "1758403",
     "entityType": "1",
-    "sortOrder": "1",
-    "entityIdParent": "101567212",
     "titleTextEncoded": "SampleVideo-1080x720-1mb-mp4",
     "category": "",
     "duration": 5,
@@ -87,14 +85,7 @@
         ]
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": 0
